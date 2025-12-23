@@ -6,6 +6,10 @@ header, main, footer{
     text-align: center;
 }
 
+#board-list{
+    margin: 0 auto;
+}
+
 #nav{
     padding: 0;
     margin: 0;
